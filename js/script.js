@@ -15,3 +15,8 @@ $(document).ready(function ($) {
         
         
 });
+
+// Ticker
+$(document).ready(function() {
+	$('.ticker').typer(['software', 'back-end', 'ruby', 'rails']);
+});
