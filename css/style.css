@@ -957,3 +957,21 @@ and (max-width : 991px) {
     padding: 20px;
     color: #fff;
 }
+
+.homepage-social {
+    
+    text-align: center;
+}
+
+.homepage-social li {
+    display: inline;
+    margin: 20px;
+}
+
+.homepage-social a {
+    color: #999;
+}
+
+.homepage-social i {
+    height: 30px;
+}
