@@ -152,6 +152,17 @@ fieldset[disabled] .btn-primary.active {
     background: #0ECEAB;
 }
 
+.light-gray {
+    background: #b3b3b3;
+}
+
+.black {
+    background: #4d4d4d;
+}
+
+.dark-gray {
+    background: #808080;
+}
 
 
 /**** Start Main Body Section ****/
